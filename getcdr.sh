@@ -1,5 +1,3 @@
-I have the following script:
-[root@gbs-cdr-01 cdr]# cat /usr/local/bin/getcdr
 #!/bin/bash
 
 ##################################################################
